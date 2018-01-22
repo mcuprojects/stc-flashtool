@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/circle_fail_active_40px.png</file>
+        <file>img/circle_fail_inactive_40px.png</file>
+        <file>img/circle_ok_active_40px.png</file>
+        <file>img/circle_ok_inactive_40px.png</file>
+    </qresource>
+</RCC>
